@@ -13,22 +13,21 @@ Wymaga: phpMyAdmin i uruchomienej instancji MySQL
 
 
 
-#Uruchomienie dental-clinic-backend
-Wymaga: php i zaladowanej biblioteki extension=mysqli
+#Uruchomienie dental-clinic-api-js
+`1. Przejść do katalogu dental-clinic-api-js`
 
-`1. W aktualnym katalogu uruchomic komende `
+`2. yarn install`
 
-`php  -S 127.0.0.1:8080 -t dental-clinic-backend/`
-
+`3. yarn start:dev`
 
 #Uruchomienie dental-clinic-ui
 Wymaga: nodejs, npm
 
 `1. Przejść do katalogu dental-clinic-ui`
 
-`2. npm install`
+`2. yarn install`
 
-`3. npm start`
+`3. yarn start`
 
 
 #Korzystanie z aplikacji
