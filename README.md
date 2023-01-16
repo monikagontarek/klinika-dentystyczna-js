@@ -5,7 +5,7 @@ Wymaga: phpMyAdmin i uruchomienej instancji MySQL
 
 `1. Przejść na strone http://localhost/phpmyadmin/index.php?route=/server/import `
 
-`2. Wybrać plik dental-clinic-backend/import_baza_danych/id16963265_denti.sql`
+`2. Wybrać plik [id16963265_denti.sql](id16963265_denti.sql)dental-clinic-backend/import_baza_danych/id16963265_denti.sql`
 
 `3. Kliknąc Wykonaj, baza danych powinna zostać zaimportowana`
 
